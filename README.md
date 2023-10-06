@@ -3,7 +3,7 @@
 ![image](https://github.com/nadjapereira/lastfm/assets/11997614/6e7a3750-c52e-40b3-b30c-6423b8619144)
 
 
-O meu **_lastfm_** é a rede social mais antiga que eu tenho hoje. Eu criei meu perfil em 2008 e até hoje faço o scrobble das músicas. Os primeiros usos eram de músicas baixadas, depois vieram os streamings como Spotify e hoje, majoritariamente, os dados são do **Youtube Music**. A análise abaixo é para ver se descobria alguma música antiga que eu gostava e nunca mais a ouvi, além de descobrir outras coisas sobre o meu gosto musical.  
+O meu **_lastfm_** é a rede social mais antiga que eu tenho. Eu criei meu perfil em 2008 e até hoje faço o scrobble das músicas. Os primeiros usos eram de músicas baixadas, depois vieram os streamings como Spotify e hoje, majoritariamente, os dados são do **Youtube Music**. A análise abaixo é para ver se descobria alguma música antiga que eu gostava e nunca mais a ouvi, além de descobrir outras coisas sobre o meu gosto musical.  
 
 Passo a passo da análise
 1. Download da base usando esse site: [Last.fm data export](https://mainstream.ghan.nl/export.html)
@@ -30,7 +30,7 @@ order by ano
 ```` 
 
 **Os picos de scrobbles**</br> 
-A maior surpresa foi quando eu gerei um gráfico no excel e achei interessante essa queda brusca a partir de 2014, a época em que eu comecei a usar antigo Google Music que não fornecia (ou eu não sabia) streaming para o lastfm. Em 2016 que eu comecei a usar o spotify e o scrobble das músicas voltaram a subir. 
+A maior surpresa foi quando eu gerei um gráfico no excel e achei interessante essa queda brusca a partir de 2014, a época em que eu comecei a usar antigo Google Music que não fornecia (ou eu não sabia) streaming para o lastfm. Em 2016 que eu passei a usar o spotify e o scrobble das músicas voltaram a subir. 
 
 ![image](https://github.com/nadjapereira/lastfm/assets/11997614/2e12aa58-4d8e-49e7-9eb4-c837b0c9f4d9)
 
@@ -51,7 +51,7 @@ order by quantidade DESC;
 ![image](https://github.com/nadjapereira/lastfm/assets/11997614/b516f76c-69aa-4ecc-a00d-5aca4dcacab4)
 
 
-Foi realmente surpreendente fazer essa análise e é muito legal perceber que o meu gosto é mais ou menos o mesmo: muita música pop, dance music, algum hiphop e MPB. Com a mais absoluta certeza farei novamente este tipo de análise. Éum exercício muito interessante revisitar a própria memória. 
+Foi realmente surpreendente fazer essa análise e é muito legal perceber que o meu gosto é mais ou menos o mesmo: muita música pop, dance music, algum hiphop e MPB. Com a mais absoluta certeza farei novamente este tipo de análise. É um exercício muito interessante revisitar a própria memória. 
 
 
 Nadja Pereira
