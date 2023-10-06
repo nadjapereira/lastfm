@@ -1,7 +1,6 @@
 ## O histórico do meu lastfm
  
 ![image](https://github.com/nadjapereira/lastfm/assets/11997614/5edfa218-1ae0-4189-ac93-6630e1624442)
-![image](https://github.com/nadjapereira/lastfm/assets/11997614/96bfb5b8-d0a9-4ad8-8ae1-e7a67f55280c)
 
 
 O meu **_lastfm_** é a rede social mais antiga que eu tenho hoje. Eu criei meu perfil em 2008 e até hoje faço o scrobble das músicas. Os primeiros usos eram de músicas baixadas, depois vieram os streamings como Spotify e hoje, majoritariamente, os dados são do **Youtube Music**. A análise abaixo é para ver se descobria alguma música antiga que eu gostava e nunca mais a ouvi, além de descobrir outras coisas sobre o meu gosto musical.  
